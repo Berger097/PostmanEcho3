@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.test.PostmanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-22T09:36:13" hostname="MacBook-Air-Anatolij.local" time="4.711">
+  <properties/>
+  <testcase name="test1()" classname="ru.netology.test.PostmanTest" time="4.711"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
